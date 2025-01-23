@@ -1,7 +1,3 @@
-<!-- <p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/itgoyo/count.svg" />
-</p> -->
 
 <h1 align="center">Hi 👋, I'm David!</h1>
 <h3 align="center">A passionate senior fullstack developer from Brazil.</h3>
