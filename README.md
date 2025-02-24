@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Yurii!</h1>
-<h3 align="center">A passionate senior fullstack developer from Ukraine</h3>
+<h1 align="center">Hi 👋, I'm Patrick Luan!</h1>
+<h3 align="center">A passionate Senior Full Stack Developer from Brazil.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
